@@ -33,6 +33,7 @@ A **Casa Orleans** é um sistema web simples, criado para facilitar o cadastro, 
 
 ## 📂 Estrutura do Projeto
 
+```text
 casa-orleans/
 ├── ebooks/
 ├── fonts/
@@ -44,7 +45,7 @@ casa-orleans/
 ├── tela_registrar/
 ├── tela_servicos/
 └── README.md
-
+```
 ---
 
 ## 📝 Observações
